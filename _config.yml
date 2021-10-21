@@ -1,2 +1,8 @@
-theme: jekyll-theme-slate
+theme: minimal-mistakes-jekyll
 title: BC Johnson
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
