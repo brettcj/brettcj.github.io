@@ -72,50 +72,6 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
-# Analytics
-analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
-
-
-# Site Author
-author:
-  name             : "Brett Johnson"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Artist / Bassist / Physicist"
-  location         : "Melbourne, Australia"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:brettcj77@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/JohnsonSolid"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/brettcjohnson/"
-
-# Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/JohnsonSolid"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/brettcjohnson/"
 
 # Reading Files
   - README
