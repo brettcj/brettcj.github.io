@@ -18,4 +18,12 @@
 <url>
 <loc>http://localhost:4000/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/assets/images/ble/Pillar_fab_V2.pdf</loc>
+<lastmod>2019-09-11T18:47:44+10:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/images/ble/Test_cover.pdf</loc>
+<lastmod>2020-05-24T10:33:56+10:00</lastmod>
+</url>
 </urlset>
