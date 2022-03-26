@@ -1,11 +1,7 @@
 # main links 
 main:
-  - title: "eyes"
+  - title: "work"
     url: /
-  - title: "ears"
-    url: /ears/
-  - title: "brain"
-    url: /brain/
   - title: "about"
     url: /about/
   - title: "contact"

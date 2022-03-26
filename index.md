@@ -2,7 +2,8 @@
 permalink: /
 title: " "
 toc: true
-
+toc_label: " "
+toc_icon: "cog"
 
 feature_row:
   - image_path: /assets/images/col/HARP_ori.jpg
@@ -20,63 +21,86 @@ feature_row:
   - image_path: /assets/images/col/HARP_3D.jpg
     excerpt: "Completed blender render."
 
+gallery:
+  - url: /assets/images/face.jpg
+    image_path: /assets/images/face.jpg
+    alt: "placeholder image 1"
+    title: "Brink, Mixed media on paper, 14 x 21 cm<sup>2</sup>, 03/2022"
+  - url: /assets/images/vase1.jpg
+    image_path: /assets/images/vase1.jpg
+    alt: "placeholder image 2"
+    title: "Bowl, Mixed media on paper, 14 x 21 cm<sup>2</sup>, 03/2022"
+  - url: /assets/images/face2.jpg
+    image_path: /assets/images/face2.jpg
+    alt: "placeholder image 3"
+    title: "Incident on Tuesday night, Mixed media on paper, 14 x 21 cm<sup>2</sup>, 03/2022"
+  - url: /assets/images/vase2.jpg
+    image_path: /assets/images/vase2.jpg
+    alt: "placeholder image 3"
+    title: "Vase, Mixed media on paper, 14 x 21 cm<sup>2</sup>, 03/2022"
+  - url: /assets/images/scene1.jpg
+    image_path: /assets/images/scene1.jpg
+    alt: "placeholder image 3"
+    title: "Boat, Mixed media on paper, 14 x 21 cm<sup>2</sup>, 03/2022"
+  - url: /assets/images/vase3.jpg
+    image_path: /assets/images/vase3.jpg
+    alt: "placeholder image 3"
+    title: "Boat, Mixed media on paper, 14 x 21 cm<sup>2</sup>, 03/2022"
+
+
+gallery2021:
+  - url: /assets/images/col/col_11.jpg
+    image_path: /assets/images/col/col_11.jpg
+    alt: "placeholder image 2"
+    title: "Through the mirror collage, Paper collage, 2021"
+  - url: /assets/images/col/col_14.jpg
+    image_path: /assets/images/col/col_14.jpg
+    alt: "placeholder image 3"
+    title: "Giant's garden, Paper collage, 2021"
+  - url: /assets/images/col/IMG20210810085814.jpg
+    image_path: /assets/images/col/IMG20210810085814.jpg
+    alt: "placeholder image 3"
+    title: "Mind of Jinn vase, Paper collage, 2021"
+  - url: /assets/images/col/IMG20210810085833b.jpg
+    image_path: /assets/images/col/IMG20210810085833b.jpg
+    alt: "placeholder image 3"
+    title: "Bilqis, Paper collage, 2021"
+  - url: /assets/images/col/col_3.jpg
+    image_path: /assets/images/col/col_3.jpg
+    alt: "placeholder image 3"
+    title: "Bilqis, Paper collage, 2021"
+  - url: /assets/images/col/col_7.jpg
+    image_path: /assets/images/col/col_7.jpg
+    alt: "placeholder image 1"
+    title: "Mirror, Paper collage, 2021"
+
+
+gallery2021mocks:
+  - url: /assets/images/moc/moc_1.jpg
+    image_path: /assets/images/moc/moc_1.jpg
+    alt: "placeholder image 1"
+    title: "Landscape, Paper collage - mockup (Elgin Street, Carlton), 2021"
+  - url: /assets/images/moc/moc_5.jpg
+    image_path: /assets/images/moc/moc_5.jpg
+    alt: "placeholder image 2"
+    title: "Dancing vase, Paper collage - mockup (an inner north wall), 2021"
+  - url: /assets/images/moc/moc_6.jpg
+    image_path: /assets/images/moc/moc_6.jpg
+    alt: "placeholder image 3"
+    title: "Calliope, Paper collage - mockup (corner of Albert & Sydney roads, Brunswick), 2021"
+
 ---
 
 ## 2022
 
-<p style="color:Tomato;font-size:12px;">
-<img src="/assets/images/face.jpg" width="400" title="Are you K.O.?" >
-<br /><span style="background-color: #000000">Brink</span><br />Mixed media on paper, 14 x 21 cm<sup>2</sup>, 03/2022</p>
-
-<p style="color:Tomato;font-size:12px;">
-<img src="/assets/images/vase1.jpg" width="400" title="Are you K.O.?" >
-<br /><span style="background-color: #000000">Bowl</span><br />Mixed media on paper, 14 x 21 cm<sup>2</sup>, 03/2022</p>
-
-<p style="color:Tomato;font-size:12px;">
-<img src="/assets/images/face2.jpg" width="400" title="Are you K.O.?" >
-<br /><span style="background-color: #000000">Incident on Tuesday night</span><br />Mixed media on paper, 14 x 21 cm<sup>2</sup>, 03/2022</p>
-
-<p style="color:Tomato;font-size:12px;">
-<img src="/assets/images/vase2.jpg" width="400" title="Are you K.O.?" >
-<br /><span style="background-color: #000000">Vase</span><br />Mixed media on paper, 14 x 21 cm<sup>2</sup>, 03/2022</p>
-
-
+{% include gallery  %}
 
 ## 2021
 
-<p style="color:Tomato;font-size:12px;">
-<img src="/assets/images/col/col_7.jpg" width="400" >
-<br /><span style="background-color: #000000">Mirror</span><br />Paper collage, 2021</p>
+{% include gallery id="gallery2021" caption=" " %}
 
-<p style="color:Tomato;font-size:12px;">
-<img src="/assets/images/col/col_11.jpg" width="400" >
-<br /><span style="background-color: #000000">Through the mirror collage</span><br />Paper collage, 2021</p>
+{% include gallery id="gallery2021mocks" caption=" " %}
 
-<p style="color:Tomato;font-size:12px;">
-<img src="/assets/images/col/col_14.jpg" width="400" >
-<br /><span style="background-color: #000000">Giant's garden</span><br />Paper collage, 2021</p>
-
-<p style="color:Tomato;font-size:12px;">
-<img src="/assets/images/col/IMG20210810085814.jpg" width="400" >
-<br /><span style="background-color: #000000">Mind of Jinn vase</span><br />Paper collage, 2021</p>
-
-<p style="color:Tomato;font-size:12px;">
-<img src="/assets/images/col/IMG20210810085833b.jpg" width="400" >
-<br /><span style="background-color: #000000">Bilqis</span><br />Paper collage, 2021</p>
-
-<p style="color:Tomato;font-size:12px;">
-<img src="/assets/images/moc/moc_1.jpg" width="400" >
-<br /><span style="background-color: #000000">Landscape</span><br />Paper collage - mockup (Elgin Street, Carlton), 2021</p>
-
-<p style="color:Tomato;font-size:12px;">
-<img src="/assets/images/moc/moc_5.jpg" width="400" >
-<br /><span style="background-color: #000000">Dancing vase</span><br />Paper collage - mockup (an inner north wall), 2021</p>
-
-<p style="color:Tomato;font-size:12px;">
-<img src="/assets/images/moc/moc_6.jpg" width="400" >
-<br /><span style="background-color: #000000">Calliope</span><br />Paper collage - mockup (corner of Albert & Sydney roads, Brunswick), 2021</p>
-
+Design flow for 3D  collage render:
 {% include feature_row %}
-
-
 

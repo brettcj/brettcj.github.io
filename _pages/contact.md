@@ -4,6 +4,9 @@ title: "Contact"
 toc: false
 ---
 
+
+Thank you for visiting! 
+
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mdobdjer" method="post">
   <fieldset id="fs-frm-inputs">
     <input type="text" name="name" id="full-name" placeholder="Your name" required="">
