@@ -5,7 +5,8 @@ toc: false
 ---
 
 
-Thank you for visiting! 
+Thank you for visiting! Feel free to contact me about purchases, commissions or collaborations! Or follow my work on instagram, [`@brettcjohnson`](https://www.instagram.com/brettcjohnson/).
+
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mdobdjer" method="post">
   <fieldset id="fs-frm-inputs">

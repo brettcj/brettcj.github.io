@@ -16,7 +16,7 @@ Brett Johnson is a Melburnian artist, living and working on Wurundjeri Country.
 
 ---
 
- [`midnightstation`](https://midnightstation.com/collections/vendors?q=Brett%20Johnson) 
+print available at [`midnightstation`](https://midnightstation.com/collections/vendors?q=Brett%20Johnson)
  
  
  
@@ -40,11 +40,11 @@ Various private collections
 
 ## MUSIC 
 
-- [The Jawa Pitu Band](http://www.jawapitu.com/)
-- [The Jawa Pitu Band on soundcloud](https://soundcloud.com/jawapitu)
-- [The Jawa Pitu Band on youtube](https://www.youtube.com/user/jawapitu)
-- [The Jawa Pitu Band on facebook](https://www.facebook.com/jawapitu)
-- [Oi Mocki / Renegade Dads on soundcloud](https://soundcloud.com/oi-mocki)
+- [`The Jawa Pitu Band`](http://www.jawapitu.com/)
+- [`The Jawa Pitu Band on soundcloud`](https://soundcloud.com/jawapitu)
+- [`The Jawa Pitu Band on youtube`](https://www.youtube.com/user/jawapitu)
+- [`The Jawa Pitu Band on facebook`](https://www.facebook.com/jawapitu)
+- [`Oi Mocki / Renegade Dads on soundcloud`](https://soundcloud.com/oi-mocki)
 
 
 
