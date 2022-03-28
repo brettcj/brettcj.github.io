@@ -8,7 +8,7 @@ toc: false
 <img src="/assets/images/moc_4.jpg" width="200" align="left" style="float:left; padding-right:10px">
 Brett Johnson is a Melburnian artist, living and working on Wurundjeri Country.
 <br /> His primary work involves collage and mono-printing coloured paper on paper or wood.
-<br /> Brett has not studied art formerly but relies on his training as a physicist to guide a semi-disciplined, self-directed journey into art. While his art practice is free and spontaneous, Brett also produces scientific illustrations  using computer graphics and has published 100+ journal articles.
+<br /> Brett has not studied art formerly but relies on his training as a physicist to guide a semi-disciplined, self-directed journey into art. While his art practice is free and spontaneous, Brett also produces scientific illustrations in collaboration with scientists using computer graphics and has published in 100+ journal articles over the last 20 years.
 <br /> Brett improvises rapidly with colour and composition to capture feelings inherent in personal creative expression - awe, wonder, peak experience and sometimes it's awkwardness, naivety and humour too. 
 <br /> 
 </p>
