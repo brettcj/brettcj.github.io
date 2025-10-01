@@ -16,7 +16,9 @@ Thank you for visiting! Feel free to contact me about commissions or collaborati
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <input type="submit" value="Submit"> 
-  <a href="https://www.instagram.com/brettcjohnson/">
-         <img alt="ig" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</form>
+  </form>
 
+<br />
+
+
+<a href="https://www.instagram.com/brettcjohnson/">&#xF437;</a>
