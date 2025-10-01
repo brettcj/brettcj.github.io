@@ -91,11 +91,8 @@ gallery2021mocks:
 
 ---
 
-## 2022
 
 {% include gallery  %}
-
-## 2021
 
 {% include gallery id="gallery2021" caption=" " %}
 

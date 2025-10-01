@@ -7,16 +7,9 @@
 remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
-
-
-
-
-
-
-
 # Site Settings
 locale                   : "en-AU"
-title                    : "BC Johnson Lab"
+title                    : "Johnson-Minai Design Lab"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Brett Johnson"
