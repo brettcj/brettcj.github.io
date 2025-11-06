@@ -1,0 +1,37 @@
+- file: aaembp.2020.2.issue-7.xlargecover.jpg
+  caption: "Silicon carbide on diamond"
+  doi: "https://doi.org/10.1021/acsaelm.0c00289"
+  tags: ["Journal cover", "2020"]
+
+- file: isotope.jpg
+  caption: "Isotope enrichment"
+  doi: "https://doi.org/10.1103/PhysRevMaterials.5.014601"
+  tags: ["Schematic", "2021"]
+
+- file: Waveguide.jpg
+  caption: "Integration of Black Phosphorus Photoconductors with Lithium Niobate on Insulator Photonics"
+  doi: "https://doi.org/10.1002/adom.202201688"
+  tags: ["Schematic", "2022"]
+
+- file: PSS_2023_Alyabyeva.jpg
+  caption: "Electroluminescence from Step-Bunched, Oxidized 4H-SiC Surfaces"
+  doi: "https://doi.org/10.1002/pssb.202200356"
+  tags: ["Journal cover", "2023"]
+
+- file: Process_2023.png
+  caption: "Silicon-Aluminum Phase-Transformation-Induced Superconducting Rings"
+  doi: "https://pubs.acs.org/doi/10.1021/acs.nanolett.2c02814"
+  tags: ["Schematic", "2023"]
+
+- file: AOM_2024_Styles.jpg
+  caption: "Quantum Sensing and Light Guiding with Fluorescent Nanodiamond-Doped PVA Fibers"
+  doi: "https://doi.org/10.1002/adom.202302940"
+  tags: ["Journal cover", "2024"]
+
+- file: Diamond_device.png
+  caption: "Diamond device"
+  doi: "https://doi.org/10.1002/adma.202405338"
+  tags: ["Schematic", "2024"]
+
+
+
