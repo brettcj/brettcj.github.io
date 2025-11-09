@@ -12,4 +12,7 @@ group :jekyll_plugins do
   gem 'jekyll-commonmark-ghpages'
   gem "jekyll-livereload"
 end
-gem "minimal-mistakes-jekyll", "~> 4.27"
+# gem "minimal-mistakes-jekyll", "~> 4.27"
+
+gem "jekyll-remote-theme"
+
