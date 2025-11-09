@@ -7,10 +7,9 @@ toc: false
 
 ---
 ## About
-At Johnson-Minai Design Lab, we bring science to life through the power of visual storytelling. Founded at the intersection of research and design, our studio specialises in creating compelling, accurate, and memorable visuals for scientists, publishers, and institutions.
+At Johnson-Minai Design Lab, we aim to bring science to life through visual storytelling. Founded at the intersection of research and design, our studio specialises in creating compelling, accurate, and memorable visuals for scientists, publishers, and institutions.
 
 We understand that clarity and beauty go hand in hand. With backgrounds in both scientific research and creative design, we translate complex concepts into visuals that are not only precise, but also engaging and impactful. Whether it’s for a high-impact journal, a grant proposal, or a conference presentation, our work ensures that your science communicates at its best.
-
 
 ---
 ## Our Services
