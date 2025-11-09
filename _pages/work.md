@@ -123,8 +123,6 @@ toc: false
 </div>
 
 
-
-
 <!-- Lightbox -->
 <div id="lightbox-modal">
   <span id="lightbox-prev" class="lightbox-nav" onclick="prevImage(event)">&#10094;</span>
