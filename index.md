@@ -1,9 +1,6 @@
 ---
 permalink: /
 title: " "
-toc: true
-# toc_label: " "
-# toc_icon: "cog"
 toc: false
 # toc_label: " "
 # toc_icon: "cog"
