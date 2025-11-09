@@ -173,6 +173,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-livereload
+  - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:

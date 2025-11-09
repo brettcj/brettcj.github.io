@@ -2,17 +2,14 @@ source "https://rubygems.org"
 
 ruby "~> 3.1"
 
-# gem 'faraday', '~> 0.17'
-gem "webrick", "~> 1.8"
+gem "webrick", "~> 1.8"  # needed for local `jekyll serve` on Ruby 3.x
+
+# Use GitHub Pages' approved Jekyll + plugins
 gem "github-pages", group: :jekyll_plugins
+
+# Remote theme support (required for Minimal Mistakes)
+gem "jekyll-remote-theme", group: :jekyll_plugins
+
+# Optional but compatible plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
-
-
-group :jekyll_plugins do
-  gem 'jekyll-commonmark-ghpages'
-  gem "jekyll-livereload"
-end
-# gem "minimal-mistakes-jekyll", "~> 4.27"
-
-gem "jekyll-remote-theme"
-
+gem "jekyll-commonmark-ghpages", group: :jekyll_plugins
