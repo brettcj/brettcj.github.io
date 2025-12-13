@@ -10,3 +10,5 @@ gem "github-pages", group: :jekyll_plugins
 
 # Required by Minimal Mistakes but allowed by GitHub Pages
 gem "jekyll-include-cache", group: :jekyll_plugins
+
+gem "jekyll-remote-theme", group: :jekyll_plugins
