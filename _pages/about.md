@@ -1,5 +1,5 @@
 ---
-permalink: /work/
+permalink: /about/
 title: ""
 toc: false
 ---

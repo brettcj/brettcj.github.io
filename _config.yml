@@ -4,8 +4,9 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # Theme Settings
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "contrast"
+# remote_theme: "mmistakes/minimal-mistakes"
+# minimal_mistakes_skin: "contrast"
+theme: minimal-mistakes-jekyll
 
 # Site Settings
 locale: "en-AU"
