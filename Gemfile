@@ -8,12 +8,6 @@ gem "webrick", "~> 1.8"
 # GitHub Pages controls Jekyll, plugins, and themes
 gem "github-pages", group: :jekyll_plugins
 
-# Optional but GitHub Pages–compatible
+# Required by Minimal Mistakes but allowed by GitHub Pages
 gem "jekyll-include-cache", group: :jekyll_plugins
 
-
-# Minimal Mistakes theme (local + GitHub Pages)
-# gem "minimal-mistakes-jekyll"
-
-# Remote theme support (required for Minimal Mistakes)
-# gem "jekyll-remote-theme", group: :jekyll_plugins
