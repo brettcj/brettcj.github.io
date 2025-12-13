@@ -7,6 +7,8 @@ gem "webrick", "~> 1.8"  # needed for local `jekyll serve` on Ruby 3.x
 # Use GitHub Pages' approved Jekyll + plugins
 gem "github-pages", group: :jekyll_plugins
 
+gem "minimal-mistakes-jekyll"
+
 # Remote theme support (required for Minimal Mistakes)
 gem "jekyll-remote-theme", group: :jekyll_plugins
 

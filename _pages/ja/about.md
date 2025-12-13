@@ -9,31 +9,28 @@ lang: ja
   <a href="/about/">EN</a> | <strong>日本語</strong>
 </div>
 
-## 私たちについて
-Johnson–Minai Design Labは、科学を視覚的なストーリーテリングによって伝えることを目的としたデザインスタジオです。
+## 私たちについて  
+Johnson–Minai Design Labは、ビジュアル・ストーリーテリングを通して科学に命を吹き込むことを目指すデザインスタジオです。研究とデザインの交差点に設立され、科学者、出版社、研究機関のために、魅力的で正確、そして記憶に残るビジュアル制作を専門としています。
 
-
-
-At Johnson-Minai Design Lab, we aim to bring science to life through visual storytelling. Founded at the intersection of research and design, our studio specialises in creating compelling, accurate, and memorable visuals for scientists, publishers, and institutions.
-
-We understand that clarity and beauty go hand in hand. With backgrounds in both scientific research and creative design, we translate complex concepts into visuals that are not only precise, but also engaging and impactful. Whether it’s for a high-impact journal, a grant proposal, or a conference presentation, our work ensures that your science communicates at its best.
+私たちは、「わかりやすさ」と「美しさ」は両立するものだと考えています。科学研究とクリエイティブデザインの両方のバックグラウンドを活かし、複雑な概念を、正確でありながら直感的でインパクトのあるビジュアルへと翻訳します。ハイインパクトジャーナル、研究助成金の申請書、国際会議でのプレゼンテーションなど、あらゆる場面で、あなたの研究が最良の形で伝わるようサポートします。
 
 ---
-## Our Services
-Cover Images for Scientific Journals
-Scientific Illustrations, Figures & Graphical Abstracts
-Logos, Brochures & Banners
 
-
----
-## Global Communication
-
-With capabilities in both English and Japanese, we collaborate seamlessly across international teams, helping researchers and organisations share their work with a global audience.
-
-At Johnson–Minai Design Lab, our mission is simple: to help your science stand out, be understood, and be remembered.
+## 提供サービス  
+- 学術誌向けカバーイメージ  
+- 科学イラストレーション、図表、グラフィカルアブストラクト  
+- ロゴ、パンフレット、バナー制作  
 
 ---
-## Location
-Based in Melbourne, Australia - serving clients worldwide.
 
+## グローバルコミュニケーション  
 
+英語と日本語の両言語に対応し、国際的なチームと円滑に連携しながら、研究者や組織がその成果を世界に発信するお手伝いをしています。
+
+Johnson–Minai Design Labの使命はシンプルです。  
+**あなたの科学を、際立たせ、理解され、そして記憶に残るものにすること。**
+
+---
+
+## 所在地  
+オーストラリア・メルボルンを拠点に、世界中のクライアントに対応しています。
