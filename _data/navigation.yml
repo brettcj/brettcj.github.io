@@ -1,9 +1,9 @@
 # main links 
 main:
-  - title: "about"
-    url: /
   - title: "work"
-    url: /work/
+    url: /
+  - title: "about"
+    url: /about/
   - title: "contact"
     url: /contact/
     
