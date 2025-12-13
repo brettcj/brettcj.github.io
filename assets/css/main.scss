@@ -1,3 +1,16 @@
+---
+# Only the main Sass file needs front matter
+---
+
+@import "minimal-mistakes";
+
+
+/* Navigation underline color */
+.masthead__menu-item a::after {
+  background-color: #A88FC1; /* change to your desired colour */
+}
+
+
 .lang-toggle {
   text-align: right;
   font-size: 0.85em;
