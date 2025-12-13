@@ -1,15 +1,19 @@
 ---
-permalink: /about/
+permalink: /ja/about/
 title: ""
 toc: false
-lang: en
+lang: ja
 ---
 
 <div class="lang-toggle">
-  <strong>EN</strong> | <a href="/ja/about/">日本語</a>
+  <a href="/about/">EN</a> | <strong>日本語</strong>
 </div>
 
-## About
+## 私たちについて
+Johnson–Minai Design Labは、科学を視覚的なストーリーテリングによって伝えることを目的としたデザインスタジオです。
+
+
+
 At Johnson-Minai Design Lab, we aim to bring science to life through visual storytelling. Founded at the intersection of research and design, our studio specialises in creating compelling, accurate, and memorable visuals for scientists, publishers, and institutions.
 
 We understand that clarity and beauty go hand in hand. With backgrounds in both scientific research and creative design, we translate complex concepts into visuals that are not only precise, but also engaging and impactful. Whether it’s for a high-impact journal, a grant proposal, or a conference presentation, our work ensures that your science communicates at its best.
