@@ -30,4 +30,4 @@ With capabilities in both English and Japanese, we collaborate seamlessly across
 
 ---
 ## Location
-Based in Melbourne, Australia - serving clients worldwide.
+Based in Melbourne, Australia - working with clients worldwide.
