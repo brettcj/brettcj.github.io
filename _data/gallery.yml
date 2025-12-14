@@ -33,3 +33,8 @@
   doi: "https://doi.org/10.1002/adma.202405338"
   tags: ["Device"]
 
+- file: VDMOSFET.png
+  caption: "SiC VD-MOSFET"
+  doi: "https://doi.org/10.1063/5.0167650"
+  tags: ["Device"]
+
