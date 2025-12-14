@@ -38,3 +38,73 @@
   doi: "https://doi.org/10.1063/5.0167650"
   tags: ["Device"]
 
+- file: ND.png
+  caption: "Thermometry with diamond"
+  doi: "https://doi.org/10.1002/adsr.202300086"
+  tags: ["Device"]
+
+- file: InSe.png
+  caption: "InSe lattice"
+  doi: ""
+  tags: ["Schematic"]
+
+- file: 4HSiC.png
+  caption: "4H SiC lattice"
+  doi: ""
+  tags: ["Schematic"]
+
+- file: SRIM.png
+  caption: "Monte Carlo implant"
+  doi: ""
+  tags: ["Schematic"]
+
+- file: landscape.png
+  caption: "Single photon emitters with satellite"
+  doi: ""
+  tags: ["Schematic"]
+
+- file: benefitFlows.png
+  caption: "Benefit flows"
+  doi: ""
+  tags: ["Schematic"]
+
+- file: helmholtz.png
+  caption: "Helmholtz coils"
+  doi: ""
+  tags: ["Schematic"]
+
+- file: heater.png
+  caption: "Heater design for photonic chip"
+  doi: ""
+  tags: ["Schematic"]
+
+- file: Pillars.png
+  caption: "Process flow for SiC pillars"
+  doi: "https://doi.org/10.1063/5.0055100"
+  tags: ["Process"]
+
+- file: 2Dprocess.png
+  caption: "Process flow for 2D materials"
+  doi: ""
+  tags: ["Process"]
+
+- file: NVSketch.png
+  caption: "NV centre"
+  doi: ""
+  tags: ["Schematic"]
+
+- file: Implant.png
+  caption: "Ion implantation schematic"
+  doi: ""
+  tags: ["Schematic"]
+
+- file: GaO.png
+  caption: "GaO lattice"
+  doi: ""
+  tags: ["Schematic"]
+
+- file: NV.png
+  caption: "NV defect in diamond"
+  doi: ""
+  tags: ["Schematic"]
+
