@@ -45,7 +45,7 @@ toc: false
   transform: translate(-50%, -50%);
   font-size: 14px;
   font-weight: bold;
-  color: white;
+  color: black;
   opacity: 0;
   transition: opacity 0.3s ease;
 }
